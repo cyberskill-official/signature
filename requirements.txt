@@ -9,9 +9,9 @@
 # full render suite before anyone accepts them.
 
 PyYAML==6.0.3
-Pillow==12.2.0
+Pillow==12.3.0
 
 # Build-time only. Needed to rasterise the icon set and to run the render and
 # cross-client suites. Not needed to add a person or rebuild the site.
-playwright==1.62.0
+playwright==1.63.0
 pytest==9.1.1
